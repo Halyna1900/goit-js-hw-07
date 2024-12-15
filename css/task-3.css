@@ -1,0 +1,30 @@
+.container {
+  width: 408px;
+  padding: 24px;
+}
+
+.input-stl {
+  border-radius: 8px;
+  border: 1px solid #808080;
+  padding-left: 16px;
+  width: 360px;
+  height: 40px;
+  margin-bottom: 16px;
+}
+::placeholder {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+.title {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 1.33;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}

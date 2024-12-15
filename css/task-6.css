@@ -1,0 +1,63 @@
+.wrap {
+  border-radius: 8px;
+  padding: 24px;
+  width: 534px;
+  height: 100%;
+  background: #fff;
+  margin: 0 auto;
+}
+
+.form-stl {
+  display: flex;
+  justify-content: space-between;
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  height: 104px;
+  background: #f6f6fe;
+  margin-bottom: 16px;
+}
+
+.input-stl {
+  border: 1px solid #808080;
+  border-radius: 8px;
+  padding: 8px 62px;
+  width: 150px;
+  height: 40px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #2e2f42;
+}
+
+.btn-stl {
+  border-radius: 8px;
+  padding: 8px 16px;
+  width: 120px;
+  height: 40px;
+  background: #4e75ff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  border: none;
+}
+
+.destroy-stl {
+  background: #ff4e4e;
+}
+
+.boxes-stl {
+  border-radius: 8px;
+  padding: 32px;
+  width: 486px;
+  height: 100%;
+  background: #f6f6fe;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
