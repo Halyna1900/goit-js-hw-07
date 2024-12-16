@@ -24,5 +24,5 @@ loginForm.addEventListener('submit', function (event) {
 
   console.log(formData);
 
-  loginForm.resert();
+  loginForm.reset();
 });
